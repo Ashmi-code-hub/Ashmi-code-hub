@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ashmi-code-hub
+- 👋 Hi, I’m Ashmi-code-hub
 - 👀 I’m interested in ... Programming
 - 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ... development task
